@@ -4,3 +4,4 @@ tests/dist
 tests/www/build
 cmp/tinro.js
 .idea
+package-lock.json
