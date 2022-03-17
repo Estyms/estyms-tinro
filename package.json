@@ -1,7 +1,7 @@
 {
-  "name": "tinro",
-  "version": "0.6.12",
-  "description": "tinro is a tiny declarative router for Svelte",
+  "name": "estyms-tinro",
+  "version": "0.1",
+  "description": "fixes for tinro",
   "main": "dist/tinro.js",
   "module": "dist/tinro.es.js",
   "svelte": "cmp/index.js",
@@ -15,19 +15,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexxNB/tinro.git"
+    "url": "git+https://github.com/Estyms/estyms-tinro.git"
   },
   "keywords": [
     "svelte-router",
     "router",
     "svelte"
   ],
-  "author": "Alexey Schebelev",
+  "author": "Evann Regnault",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlexxNB/tinro/issues"
+    "url": "https://github.com/Estyms/estyms-tinro/issues"
   },
-  "homepage": "https://github.com/AlexxNB/tinro#readme",
+  "homepage": "https://github.com/Estyms/estyms-tinro#readme",
   "devDependencies": {
     "derver": "^0.5.3",
     "esbuild": "^0.14.18",

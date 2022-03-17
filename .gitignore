@@ -3,3 +3,4 @@ dist
 tests/dist
 tests/www/build
 cmp/tinro.js
+.idea
