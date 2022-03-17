@@ -1,6 +1,6 @@
 {
   "name": "@estym/estyms-tinro",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "[Tinro](https://github.com/AlexxNB/tinro) with some fixes until the main repo fixes them.",
   "main": "dist/tinro.js",
   "module": "dist/tinro.es.js",
