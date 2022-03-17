@@ -65,7 +65,7 @@ function writeLocation(MODE, href, replace){
 
     MODES.run( MODE,
         _ => setURL(base+href),
-        _ => setURL(`${base}#/${href}`),
+        _ => setURL(`${base}/#${href}`),
         _ => memoURL = href
     );
 }
